@@ -2,6 +2,7 @@ package com.zihuan.zimageutils
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Environment
 import com.zihuan.view.zimglibrary.ImageConfig
 import com.zihuan.view.zimglibrary.loader
 import kotlinx.android.synthetic.main.activity_main.*
